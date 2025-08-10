@@ -1,0 +1,13 @@
+¡Hola! Bienvenido la guia de conversor de palabras a números.
+
+¿Cómo funciona? Es muy fácil:
+
+1. Escribe la palabra que quieras convertir en el espacio que ves en la pantalla.
+2. Dale clic al botón que dice "Convertir".
+3. ¡Listo! Abajo te aparecerá cuántas letras tiene tu palabra.
+
+Recuerda: los espacios no cuentan como letras. ¡Así que puedes escribir frases largas si quieres!
+
+Espero que te diviertas mucho usándolo. 
+
+By JuanDa.
