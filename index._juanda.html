@@ -15,10 +15,15 @@
 
     <script>
         function convertir() {
-            var palabra = document.getElementById("palabra").value;
-            var numero = palabra.length; // Convierte la palabra a su longitud
-            document.getElementById("resultado").textContent = "La palabra '" + palabra + "' tiene " + numero + " letras.";
+    var palabra = document.getElementById("palabra").value;
+    var numero = 0;
+    for (var i = 0; i < palabra.length; i++) {
+        if (palabra[i] !== " ") { // Verifica que no sea un espacio
+            numero++;
         }
+    }
+    document.getElementById("resultado").textContent = "La palabra '" + palabra + "' tiene " + numero + " letras.";
+}
     </script>
 
 </body>
